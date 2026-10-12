@@ -97,6 +97,7 @@ On Windows, use:
 Instrumented tests require a configured emulator or Android device.
 🖼️ Screenshots
 Add screenshots or a short demo GIF here when available. For example:
+![EcoLens campus sustainability dashboard](docs/screenshots/campus-dashboard.png)
 ![EcoLens dashboard](docs/screenshots/dashboard.png)
 ![EcoLens scan results](docs/screenshots/scan-results.png)
 🤝 Contributing
