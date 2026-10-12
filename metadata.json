@@ -1,0 +1,6 @@
+{
+  "name": "EcoLens",
+  "description": "EcoLens Campus AI - Multimodal vision auditor for campus waste management and sustainability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
